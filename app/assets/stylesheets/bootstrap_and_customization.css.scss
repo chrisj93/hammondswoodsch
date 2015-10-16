@@ -1,13 +1,14 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(https://fonts.googleapis.com/css?family=Arvo);
 
-$body-bg: 					white;
-$font-family-sans-serif:    'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+$body-bg: 					#EEEEEE;
+$font-family-sans-serif:    'Arvo', serif;
 $navbar-height:				45px;
-$navbar-default-bg: 		#34495E;
-$navbar-default-link-color: white;
-$jumbotron-bg: 				#67809F;
-$jumbotron-padding:			10px;
-$jumbotron-heading-color:	black;
+$navbar-default-bg: 		white;
+$navbar-default-link-color: #757D75;
+$jumbotron-bg: 				#9D2933;
+$jumbotron-padding:			15px;
+$jumbotron-heading-color:	#ECF0F1;
 $brand-primary: 			#34495e;
 
 @import 'bootstrap-sprockets';
